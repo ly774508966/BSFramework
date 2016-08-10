@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 942828057
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: luaout.bytes
+      Dependencies: {}

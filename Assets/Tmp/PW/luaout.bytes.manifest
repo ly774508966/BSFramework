@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2339940666
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f545d84ee5e9ec42e6205c1c1f293a60
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Tmp/PW/BSFramework_Core_require.bytes
+- Assets/Tmp/PW/Service_TestUI.bytes
+- Assets/Tmp/PW/Main.bytes
+- Assets/Tmp/PW/BSFramework_Core_Class.bytes
+- Assets/Tmp/PW/BSFramework_Base_GameBaseUI.bytes
+- Assets/Tmp/PW/BSFramework_Manager_SceneManager.bytes
+- Assets/Tmp/PW/BSFramework_Core_Global.bytes
+- Assets/Tmp/PW/BSFramework_Core_Version.bytes
+- Assets/Tmp/PW/BSFramework_Log_TablePrint.bytes
+- Assets/Tmp/PW/BSFramework_Log_Log.bytes
+- Assets/Tmp/PW/Service_TestUI1.bytes
+- Assets/Tmp/PW/BSFramework_Base_GameCanvas.bytes
+Dependencies: []
